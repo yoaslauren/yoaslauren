@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @yoaslauren
-- 👀 I’m interested in data and GIS
-- 🌱 I’m currently learning all about data science
+- 👋 Hi, I’m Yoas Lauren
+- 👨‍💼 I'm a water resources engineer and a GIS specialist
+
 <!---
+- 👀 I’m interested in water, data and GIS
+- 🌱 I’m currently learning all about data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
